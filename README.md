@@ -4,4 +4,6 @@ Repositório para teste em sala de aula
 Informações adicionadas após criar o repositório.
 
 
-minha primeira alteração no repositorio local.
+Minha primeira alteração no repositório local.
+
+Minha segunda alteração no repositório.
